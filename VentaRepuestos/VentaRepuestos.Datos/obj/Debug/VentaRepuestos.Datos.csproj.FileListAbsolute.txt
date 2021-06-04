@@ -1,0 +1,9 @@
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\VentaRepuestos\VentaRepuestos.Datos\bin\Debug\VentaRepuestos.Datos.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\VentaRepuestos\VentaRepuestos.Datos\bin\Debug\VentaRepuestos.Datos.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\VentaRepuestos\VentaRepuestos.Datos\bin\Debug\VentaRepuestos.Entidades.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\VentaRepuestos\VentaRepuestos.Datos\bin\Debug\VentaRepuestos.Entidades.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\VentaRepuestos\VentaRepuestos.Datos\obj\Debug\VentaRepuestos.Datos.csprojAssemblyReference.cache
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\VentaRepuestos\VentaRepuestos.Datos\obj\Debug\VentaRepuestos.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\VentaRepuestos\VentaRepuestos.Datos\obj\Debug\VentaRepuestos.Datos.csproj.CopyComplete
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\VentaRepuestos\VentaRepuestos.Datos\obj\Debug\VentaRepuestos.Datos.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\VentaRepuestos\VentaRepuestos.Datos\obj\Debug\VentaRepuestos.Datos.pdb

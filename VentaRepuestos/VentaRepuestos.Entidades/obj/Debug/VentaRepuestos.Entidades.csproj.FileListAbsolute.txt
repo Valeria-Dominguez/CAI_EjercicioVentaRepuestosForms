@@ -1,0 +1,6 @@
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\VentaRepuestos\VentaRepuestos.Entidades\bin\Debug\VentaRepuestos.Entidades.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\VentaRepuestos\VentaRepuestos.Entidades\bin\Debug\VentaRepuestos.Entidades.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\VentaRepuestos\VentaRepuestos.Entidades\obj\Debug\VentaRepuestos.Entidades.csprojAssemblyReference.cache
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\VentaRepuestos\VentaRepuestos.Entidades\obj\Debug\VentaRepuestos.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\VentaRepuestos\VentaRepuestos.Entidades\obj\Debug\VentaRepuestos.Entidades.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Segunda parte\VentaRepuestos\VentaRepuestos.Entidades\obj\Debug\VentaRepuestos.Entidades.pdb
